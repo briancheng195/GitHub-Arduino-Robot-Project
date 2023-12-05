@@ -1,5 +1,4 @@
 # Arduino Robot Project Challenge
-Description and Documentation of My Personal Projects
 
 Designed and programmed a robot in Arduino to complete several tasks of an obstacle course. Such tasks included:
 - Robot to drive over a small 3x3 rectangular bump
