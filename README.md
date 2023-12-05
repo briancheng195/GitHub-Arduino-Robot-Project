@@ -1,4 +1,4 @@
-# GitHub-Arduino Robot Project Challenge
+# Arduino Robot Project Challenge
 Description and Documentation of My Personal Projects
 
 Designed and programmed a robot in Arduino to complete several tasks of an obstacle course. Such tasks included:
