@@ -25,7 +25,7 @@ void loop() {
   float cms = microsecs*SPEED_OF_SOUND/2;    #Calculating the distance from the ultrasonic sensor to the wall
   servo.write(0);
   Serial.println(cms);
-  if (cms < 9) {                             #Robot is close to the wall, program the servo motors to stop
+  if (cms < 9) {                             #Robot is close to the wall, program the servo motors to stop the robot from moving
     digitalWrite(MOTOR_PIN1, LOW);    
     digtialWrite(MOTOR_PIN2, LOW);
     delay(6000);
